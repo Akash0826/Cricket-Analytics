@@ -12,4 +12,6 @@ Random Forest Model Prediction :
 
 <img width="762" alt="3" src="https://github.com/user-attachments/assets/4e848a23-a731-4a89-a5a0-8cf05bf0d1fa" />
 
+For more informational analysis refer to .ipynb notebook
+
 
